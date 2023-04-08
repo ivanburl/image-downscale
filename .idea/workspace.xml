@@ -5,13 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="482872f2-d8a7-4892-9acd-c7401b872d64" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/imagej.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/res/getScaled.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/res/getScaled.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/res/graphic2d.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/res/graphic2d.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/res/scalr.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/res/scalr.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/res/thumbnail.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/res/thumbnail.jpg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +27,11 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
     <option name="importingSettings">
       <MavenImportingSettings>
         <option name="workspaceImportEnabled" value="true" />
@@ -43,17 +50,28 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/user/Documents/Programming/Java/image-downscale/src/main/resources",
+    "last_opened_file_path": "C:/Users/burluiva/Documents/Java/image-downscale/src/main/resources",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\burluiva\Documents\Java\image-downscale\src\main\resources" />
+      <recent name="C:\Users\burluiva\Documents\Java\image-downscale\src" />
+      <recent name="C:\Users\burluiva\Documents\Java\image-downscale" />
       <recent name="C:\Users\user\Documents\Programming\Java\image-downscale\src\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\burluiva\Documents\Java\image-downscale" />
+      <recent name="C:\Users\burluiva\Documents\Java\image-downscale\src\main\resources" />
+      <recent name="C:\Users\burluiva\Documents\Java\image-downscale\src\main\resources\res" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -65,6 +83,8 @@
       <option name="presentableId" value="Default" />
       <updated>1680901284762</updated>
       <workItem from="1680901286240" duration="7851000" />
+      <workItem from="1680957610919" duration="8174000" />
+      <workItem from="1680977954057" duration="4425000" />
     </task>
     <servers />
   </component>
